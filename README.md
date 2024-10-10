@@ -2,7 +2,4 @@
 
 https://stackblitz.com/~/github.com/prog-Yousef/intervall-app
 
-
-
-
-https://sb1vgiejg-k3fo-w5cyjsgo--5173--134daa3c.local-corp.webcontainer.io/
+(https://melodious-gelato-3b5714.netlify.app/)
